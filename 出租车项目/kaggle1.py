@@ -126,4 +126,4 @@ y_test = np.exp(ytest)-1
 output = pd.DataFrame()
 output['id'] = test['id']
 output['trip_duration'] = y_test
-output.to_csv('randomforest.csv', index=False)
+output.to_csv('xgboost.csv', index=False)
