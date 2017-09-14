@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+
+"""
+    项目名称：一些天气特征预测纽约一家出租车公司的行驶里程   New York City Taxi Trip Duration
+    Kaggle地址：https://www.kaggle.com/c/nyc-taxi-trip-duration
+"""
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
